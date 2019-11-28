@@ -1,0 +1,11 @@
+MyProject/.vs/*
+
+MyProject/Saved/*
+!MyProject/Saved/Config/
+MyProject/Saved/Config/CrashReportClient/*
+
+MyProject/Intermediate/*
+!MyProject/Intermediate/ProjectFiles/
+
+!.gitignore
+!*.dll
